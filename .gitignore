@@ -1,0 +1,6 @@
+.idea
+Data/train_data.pickle
+Data/val_data.pickle
+Data/test_data.pickle
+Data/sexism_data.csv
+Trained_Model
